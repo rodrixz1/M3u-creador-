@@ -1,0 +1,5 @@
+{
+  "name": "M3U Playlist Creator",
+  "description": "A user-friendly web application to create, preview, and save M3U playlists. Users can add channels with names, groups, logos, and stream URLs, and see a real-time preview of the generated .m3u file.",
+  "requestFramePermissions": []
+}
