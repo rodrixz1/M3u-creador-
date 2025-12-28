@@ -1,0 +1,54 @@
+#EXTM3U.
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Nacionales",Mega ✪ | CL
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Noticias",T13 ✪ | CL
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales",Canal 13 ✪ | CL
+https://m3u.cl/channel/c13.php
+
+#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Nacionales",La Red ✪ | CL
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="Nacionales",CHV ✪ | CL
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="Universitarios",UCV ✪ | CL
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png" group-title="Universitarios",U Chile TV ✪ | CL
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+
+# T13 RADIO
+#EXTINF:-1 tvg-id="1198" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="Canal 13",T13 Radio ✪ | CL
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+
+# CANALES TEMÁTICOS DE CANAL 13
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="Canal 13",13 Teleseries | CL
+https://redirector.dps.live/hls/13t/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="Canal 13",13 Pop | CL
+https://redirector.dps.live/hls/13pop/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Canal 13",13 Cultura | CL
+https://redirector.dps.live/hls/13cultura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1446" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="Canal 13",13 Festival | CL
+https://redirector.dps.live/hls/13festival/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1448" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="Canal 13",13 Realities | CL
+https://redirector.dps.live/hls/13realities/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="Canal 13",13 Cocina | CL
+https://redirector.dps.live/hls/13cocina/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="Canal 13",13 Viajes | CL
+https://redirector.dps.live/hls/13viajes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="Canal 13",13 Internacional | CL
+https://redirector.dps.live/hls/13intav/playlist.m3u8
+
+# TVN3 (Señal alternativa/complementaria)
+#EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="TVN",TVN3 ✪ | CL
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
