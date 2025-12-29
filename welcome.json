@@ -1,0 +1,47 @@
+{
+  "reuse": false,
+  "name": "Simple Menu",
+  "version": "1.0.0",
+  "headline": "{app:name}",
+  "menu": [
+    {
+      "type": "separator",
+      "label": "Media"
+    },
+    {
+      "icon": "movie",
+      "label": "Videos",
+      "data": "data:guide:videos"
+    },
+    {
+      "icon": "music-note",
+      "label": "Audios",
+      "data": "data:guide:audios"
+	},
+    {
+      
+    "icon": "msx-white-soft:live-tv",
+      "label": "Canales IPTV",
+      "extensionLabel": "LIVE",
+      "data": "http://msx.benzac.de/services/m3u.php?type=video&url=https://bit.ly/Yeseyese"
+    },
+    {
+      "icon": "image",
+      "label": "Images",
+      "data": "data:guide:images"
+    },
+    {
+      "icon": "video-library",
+      "label": "Menu",
+       "data": "data:guide:mixed"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "icon": "settings",
+      "label": "Settings",
+      "type": "settings"
+    }
+  ]
+}
