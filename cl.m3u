@@ -48,8 +48,7 @@ https://redirector.dps.live/hls/13viajes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="Canal 13",13 Internacional | CL
 https://redirector.dps.live/hls/13intav/playlist.m3u8
-#EXTINF:-1 group-title="Leeme" tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/images.jpg",Actualizado 14/11/2024
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
+
 #EXTINF:-1 group-title="Lo Más Visto" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png",MTV Flow Latino
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6bf70-c01c-11f0-a124-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=876f5f55-8c7a-4054-9591-14d6a1df9c18&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Lo Más Visto" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png",R&B, and Latin artists to get any party started!" group-title="Lo Más Visto", Yo! MTV
@@ -106,6 +105,3 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b5ca-c01c-11f0-bf71-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16e4871e-061a-47bb-97ef-3c88fa388c25&userId=&serverSideAds=true
 #EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5f4d882d5233170007ee880e/colorLogoPNG.png",los fenómenos paranormales y las historias de fantasmas se hacen realidad. ¿Estás listo?" group-title="PlutoTV", Misterios sin resolver
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b624-c01c-11f0-ab43-befeec93b554&devi
-# TVN3 (Señal alternativa/complementaria)
-#EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="TVN",TVN3 ✪ | CL
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
