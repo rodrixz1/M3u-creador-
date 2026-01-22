@@ -1,85 +1,55 @@
-#EXTM3U
-#EXTINF:-1 group-title="Nacionales" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png",Mega ✪ | CL
+
+#EXTM3U.
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Nacionales",Mega ✪ | CL
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png",T13 ✪ | CL
+
+#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Noticias",T13 ✪ | CL
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 group-title="Nacionales" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png",Canal 13 ✪ | CL
+
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales",Canal 13 ✪ | CL
 https://m3u.cl/channel/c13.php
-#EXTINF:-1 group-title="Nacionales" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png",La Red ✪ | CL
+
+#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Nacionales",La Red ✪ | CL
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Nacionales" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png",CHV ✪ | CL
+
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="Nacionales",CHV ✪ | CL
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
-#EXTINF:-1 group-title="Universitarios" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png",UCV ✪ | CL
+
+#EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="Universitarios",UCV ✪ | CL
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Universitarios" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png",U Chile TV ✪ | CL
+
+#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png" group-title="Universitarios",U Chile TV ✪ | CL
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" radio="true",T13 Radio ✪ | CL
+
+# T13 RADIO
+#EXTINF:-1 tvg-id="1198" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="Canal 13",T13 Radio ✪ | CL
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
-#EXTINF:-1 group-title="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png",13 Teleseries | CL
+
+# CANALES TEMÁTICOS DE CANAL 13
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="Canal 13",13 Teleseries | CL
 https://redirector.dps.live/hls/13t/playlist.m3u8
-#EXTINF:-1 group-title="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png",13 Pop | CL
+
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="Canal 13",13 Pop | CL
 https://redirector.dps.live/hls/13pop/playlist.m3u8
-#EXTINF:-1 group-title="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png",13 Cultura | CL
+
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Canal 13",13 Cultura | CL
 https://redirector.dps.live/hls/13cultura/playlist.m3u8
-#EXTINF:-1 group-title="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png",13 Festival | CL
+
+#EXTINF:-1 tvg-id="1446" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="Canal 13",13 Festival | CL
 https://redirector.dps.live/hls/13festival/playlist.m3u8
-#EXTINF:-1 group-title="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png",13 Realities | CL
+
+#EXTINF:-1 tvg-id="1448" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="Canal 13",13 Realities | CL
 https://redirector.dps.live/hls/13realities/playlist.m3u8
-#EXTINF:-1 group-title="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png",13 Cocina | CL
+
+#EXTINF:-1 tvg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="Canal 13",13 Cocina | CL
 https://redirector.dps.live/hls/13cocina/playlist.m3u8
-#EXTINF:-1 group-title="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png",13 Viajes | CL
+
+#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="Canal 13",13 Viajes | CL
 https://redirector.dps.live/hls/13viajes/playlist.m3u8
-#EXTINF:-1 group-title="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png",13 Internacional | CL
+
+#EXTINF:-1 tvg-id="1685" tvg-name="13 Internacional" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="Canal 13",13 Internacional | CL
 https://redirector.dps.live/hls/13intav/playlist.m3u8
-#EXTINF:-1 group-title="TVN" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png",TVN3 ✪ | CL
+
+# TVN3 (Señal alternativa/complementaria)
+#EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="TVN",TVN3 ✪ | CL
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 group-title="Leeme" tvg-logo="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/images.jpg",Actualizado 14/11/2024
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/2016-09-09-15_18_40.gif
-#EXTINF:-1 group-title="Lo Más Visto" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG_1731834717093.png",MTV Flow Latino
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6bf70-c01c-11f0-a124-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=876f5f55-8c7a-4054-9591-14d6a1df9c18&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Lo Más Visto" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png",R&B, and Latin artists to get any party started!" group-title="Lo Más Visto", Yo! MTV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6bc8c-c01c-11f0-83ea-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=487353bc-61d2-4263-9dba-61fa3c433dbf&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Lo Más Visto" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png",movimientos de altos vuelos y entusiasmo sin fronteras vienen a ti con fuerza en este feroz y elec" group-title="Lo Más Visto", Lucha Libre AAA
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b85e-c01c-11f0-a806-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6eacd663-2ada-4b93-a9bd-4bb655b322ec&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png",Mia, de 6 años, experimenta el mundo que la rodea a través de canciones y un poco de magia." group-title="PlutoTV", Little Angel's Playroom en Español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cc4c-c01c-11f0-9164-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ed95a75-86ea-4b3a-b5dd-a9abc8aadbf8&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",donde puedes disfrutar de tus programas favoritos como SpongeBob (Bob Esponja), Loud House (Una casa de locos), Henry Danger, PAW Patrol (Patrulla de cachorros), Blaze & the Monster Machines y más!" group-title="PlutoTV", Nickelodeon en español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4cdc8-c01c-11f0-a429-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14f14a1e-f777-4e57-9677-d089c7518e41&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png",Hey Arnold! Kenan & Kel and more. It’s all your favorite Nick 90s shows that made The Splat that defined a generation - now you can relive the fun with your own family every day on Pluto TV!" group-title="PlutoTV", 90's Kids
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee4ce22-c01c-11f0-9a41-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=336f37e7-4d5d-42f0-a41e-52c47718bbe5&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png",romance, películas de acción, terror y joyas independientes. Lo más grande del celuloide doblado al español, las 24 horas del día, todos los días de la semana." group-title="PlutoTV", Cine Premiere
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6a8aa-c01c-11f0-a8c6-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3cadf2f3-c69c-493d-9d43-7dac1865ab0f&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png",a los mejores directores y a los genios de la cinematografía en español. Si la película nació en nuestro idioma, está aquí." group-title="PlutoTV", Cine en español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6a99a-c01c-11f0-9fe3-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2cee87cc-2da3-4553-a1d2-7c8f6bfa3bd9&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png",Cine aventura
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aac6-c01c-11f0-8584-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a4e54b3-d7bf-467b-a218-52d10831d5f3&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/686c1c873ffa5e0c91a85938/colorLogoPNG_1751915821493.png",misterios difíciles de explicar e investigaciones tortuosas. El cine preferido del detective que llevas dentro." group-title="PlutoTV", Cine Crimen
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/686c1c873ffa5e0c91a85938/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ac24-c01c-11f0-b52f-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce4c7f59-3469-4a8f-87c1-947ec27d7e37&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png",tápate los ojos y no hagas ruido! Todos los días, Cine terror te trae los más aterradores y escalofriantes éxitos del cine de miedo, suspense y terror en español y doblados. Todo para asegurarnos de que no puedas dormir." group-title="PlutoTV", Cine terror
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ac88-c01c-11f0-8c46-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22d2c7aa-5019-40f9-a408-7e88d0729058&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG_1757954361053.png",porque Cine comedia hará que te partas de risa con estos genios del humor. La misión es hacerte reír sin parar hasta que no puedas más." group-title="PlutoTV", Cine comedia
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ace2-c01c-11f0-b297-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1c225d9-5099-4a7e-827d-63356bfd2d9d&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" radio="true",comedias románticas y las telenovelas más populares. Si quieres ser conmovido e inspirado por inolvidables historias de amor, éste es el lugar para ti." group-title="PlutoTV", Telemundo telenovelas clásicas
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6ae5e-c01c-11f0-a1b3-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=29c128fe-0c7f-4e99-889c-7986fd2c851f&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/colorLogoPNG.png",emotivas y actuales." group-title="PlutoTV", Pluto TV Novelas
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96c0222df39f1a338d163/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6aecc-c01c-11f0-b5a8-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f5670cc5-988b-4230-9d60-d7aaa4204f6c&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png",la serie de crímenes que revolucionó la televisión, está disponible en Pluto TV 24/7. Acompaña al elenco original mientras descifran las pistas, interrogan a los sospechosos y ponen luz sobre las maldades de la “ciudad del pecado”." group-title="PlutoTV", CSI en Español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6af80-c01c-11f0-92ab-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78d0e50c-9697-4aef-8bb9-0a212131d2b3&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png",todo el día, aquí en Pluto TV." group-title="PlutoTV", CSI: NY en español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b07a-c01c-11f0-9278-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dbed597-c8eb-428f-8817-97e5b5144db3&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png",pero no te dejes morder! Los zombis más escalofriantes de la televisión van sueltos 24 horas al día y 7 días a la semana en The Walking Dead en español. Sé parte del drama donde los muertos vivientes son los protagonistas." group-title="PlutoTV", The Walking Dead en español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b0d4-c01c-11f0-b292-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16a42637-e439-4042-8348-8363689fffd5&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/668c566d08d5490008075948/colorLogoPNG.png",La Familia del Barrio, está en Pluto TV. Esta divertida serie sigue a una familia mexicana disfuncional que vive en una ciudad mexicana ficticia donde cualquier cosa puede pasar." group-title="PlutoTV", La Familia del Barrio
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c566d08d5490008075948/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b138-c01c-11f0-971f-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1c5106b7-e414-4ee7-a95e-2bad42bf64b6&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png",Are You the One? y Acapulco Shore. Además, toda la música que puedas desear. ¡Solo en español y solo por MTV en español!" group-title="PlutoTV", MTV en español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b1f6-c01c-11f0-a6cf-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e4596d49-4a45-4604-a2be-92bc1444701b&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG_1731837238379.png",animaciones, especiales de stand-up, formatos cortos y sketches." group-title="PlutoTV", Comedy Central en español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b26e-c01c-11f0-96bd-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b4cea22a-0d44-4e3f-88f5-ea573aa3b7ae&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png",realities, competencias de talento y “talk shows”. ¡Una experiencia que no se pueden perder!" group-title="PlutoTV", EstrellaTV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b2f0-c01c-11f0-aeeb-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=eb51c0f6-849a-4e2f-bcaf-62f1cb3919f7&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png",¡Caso cerrado!” Disfruta de los casos más escandalosos, polémicos y divertidos de la Dra. Polo. No te pierdas lo mejor de Caso Cerrado y Sala de Parejas aquí, en Pluto TV." group-title="PlutoTV", Casos de la Dra. Polo
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b354-c01c-11f0-ad6e-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=786b84f8-274d-45f7-81bd-d8fbb0930b22&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/673249afc7626f0008c7205d/colorLogoPNG.png",Vidas Extremas
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249afc7626f0008c7205d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cee6b43a-c01c-11f0-9b19-befeec93b554&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=44d5eb0e-5987-416a-a804-443241d4f6a8&userId=&serverSideAds=true
-#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png",Construcciones Asombrosas
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u8?advertising
