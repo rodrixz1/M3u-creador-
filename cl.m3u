@@ -21,10 +21,6 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png" group-title="Universitarios",U Chile TV ✪ | CL
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 
-# T13 RADIO
-#EXTINF:-1 tvg-id="1198" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="Canal 13",T13 Radio ✪ | CL
-https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
-
 # CANALES TEMÁTICOS DE CANAL 13
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="Canal 13",13 Teleseries | CL
 https://redirector.dps.live/hls/13t/playlist.m3u8
@@ -53,3 +49,51 @@ https://redirector.dps.live/hls/13intav/playlist.m3u8
 # TVN3 (Señal alternativa/complementaria)
 #EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="TVN",TVN3 ✪ | CL
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1 tvg-id="activa" tvg-name="Activa" tvg-logo="logos/Activa.png" group-title="Nacionales",Activa ✦ | CL
+http://27343.live.streamtheworld.com:80/ACTIVA_SC
+
+#EXTINF:-1 tvg-id="adn_radio" tvg-name="ADN Radio" tvg-logo="logos/ADN_Radio.png" group-title="Nacionales",ADN Radio ✦ | CL
+http://29320.live.streamtheworld.com:80/ADN_SC
+
+#EXTINF:-1 tvg-id="agricultura" tvg-name="Agricultura" tvg-logo="logos/Agricultura.png" group-title="Nacionales",Agricultura ✦ | CL
+http://redirector.dps.live/agricultura/aac/icecast.audio
+
+#EXTINF:-1 tvg-id="beethoven" tvg-name="Beethoven" tvg-logo="logos/Beethoven.png" group-title="Nacionales",Beethoven ✦ | CL
+http://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio
+
+#EXTINF:-1 tvg-id="biobio" tvg-name="Biobio" tvg-logo="logos/Biobio.png" group-title="Nacionales",Biobio ✦ | CL
+http://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
+
+#EXTINF:-1 tvg-id="carolina" tvg-name="Carolina" tvg-logo="logos/Carolina.png" group-title="Nacionales",Carolina ✦ | CL
+http://stream.zeno.fm/sri2de2qdlivv
+
+#EXTINF:-1 tvg-id="concierto" tvg-name="Concierto" tvg-logo="logos/Concierto.png" group-title="Nacionales",Concierto ✦ | CL
+http://27363.live.streamtheworld.com:80/CONCIERTO_SC
+
+#EXTINF:-1 tvg-id="cooperativa" tvg-name="Cooperativa" tvg-logo="logos/Cooperativa.png" group-title="Nacionales",Cooperativa ✦ | CL
+http://redirector.dps.live/cooperativafm/aac/icecast.audio
+
+#EXTINF:-1 tvg-id="corazon" tvg-name="Corazon" tvg-logo="logos/Corazon.png" group-title="Nacionales",Corazon ✦ | CL
+http://14003.live.streamtheworld.com:80/CORAZON_SC
+
+#EXTINF:-1 tvg-id="fm_dos" tvg-name="FM Dos" tvg-logo="logos/FM_Dos.png" group-title="Nacionales",FM Dos ✦ | CL
+http://26523.live.streamtheworld.com:80/FMDOS_SC
+
+#EXTINF:-1 tvg-id="futuro" tvg-name="Futuro" tvg-logo="logos/Futuro.png" group-title="Nacionales",Futuro ✦ | CL
+http://26673.live.streamtheworld.com:80/FUTURO_SC
+
+#EXTINF:-1 tvg-id="imagina" tvg-name="Imagina" tvg-logo="logos/Imagina.png" group-title="Nacionales",Imagina ✦ | CL
+http://23033.live.streamtheworld.com:80/IMAGINA_SC
+
+#EXTINF:-1 tvg-id="pudahuel" tvg-name="Pudahuel" tvg-logo="logos/Pudahuel.png" group-title="Nacionales",Pudahuel ✦ | CL
+http://14073.live.streamtheworld.com:80/PUDAHUEL_SC
+
+#EXTINF:-1 tvg-id="radio_uno" tvg-name="Radio Uno" tvg-logo="logos/Radio_Uno.png" group-title="Nacionales",Radio Uno ✦ | CL
+http://27573.live.streamtheworld.com:80/UNO_SC
+
+#EXTINF:-1 tvg-id="rock_and_pop" tvg-name="Rock and Pop" tvg-logo="logos/Rock_and_Pop.png" group-title="Nacionales",Rock and Pop ✦ | CL
+http://24233.live.streamtheworld.com:80/ROCK_AND_POP_SC
+
+#EXTINF:-1 tvg-id="universidad_de_chile" tvg-name="Universidad de Chile" tvg-logo="logos/Universidad_de_Chile.png" group-title="Nacionales",Universidad de Chile ✦ | CL
+http://sonic-us.arkeo.cl/8186/stream
